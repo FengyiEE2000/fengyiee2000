@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'fengyiee2000 docs'
 copyright = '2021, Graziella'
-author = 'Graziella'
+author = 'zhangjingwen.silvia'
 
 release = '0.1'
 version = '0.1.0'
